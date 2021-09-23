@@ -1,0 +1,24 @@
+body{ background-color: #FFFDE7; text-align: center;}
+
+
+.imagen {align-content:auto; width:50; height: auto; margin-left: auto;; margin-right: auto;;}
+.estilosubtitulo{font-family:tahoma; font-size: x-large ; background-color: #; color:#4c2b0d;}
+.estiloparrafo {font-family: tahoma ; font-size: medium ; color: black; font-style: oblique;}
+.estilolista2 {font-family: tahoma ; list-style-position: inside; font-size: medium ; align-content: flex-start; color: black;}
+header {font-family: times; font-size:  xx-large ; text-align: center; background-color: #FAD7A0; color: #4c2b0d;  clear: both;
+float: none;}
+nav p {font-family: Lucida; font-size: large ; color:#4c2b0d; font-style: normal; }
+ nav li{float: left; display: inline-block; box-sizing: border-box; width: 25%; height: auto; background-color:#FAD7A0 ;
+    border:dashed ; text-align: center; color: #B9770E   ; }
+  nav a {text-decoration: none; color: #4c2b0d; font-size-adjust: auto; clear: both;}
+
+section { float:left ; width: 44%; height: 44%; overflow:auto; padding:3px; margin: 3%; border:dashed; color: #B9770E; box-sizing: border-box;}
+
+aside {float:left ; width: 44%; height: 44%; overflow:auto; padding:3px; margin: 3%; border:dashed ; color: #B9770E; box-sizing: border-box;}
+
+
+footer { clear: both; width:100%; margin-top: 50px; background-color:#FAD7A0; }
+footer .redes{ width: auto; }
+
+.iconow { position: fixed; top: 55%; right: 1%;}
+.redes { margin-top: auto; padding: 1px; }
